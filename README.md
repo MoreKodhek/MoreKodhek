@@ -9,4 +9,4 @@ MoreKodhek/MoreKodhek is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MoreKodhek)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MoreKodhek&theme=dark)](https://git.io/streak-stats)
