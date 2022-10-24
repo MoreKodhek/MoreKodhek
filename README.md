@@ -9,6 +9,7 @@ MoreKodhek/MoreKodhek is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoreKodhek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MoreKodhek&theme=radical)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoreKodhek&show_icons=true&theme=radical)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MoreKodhek&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
