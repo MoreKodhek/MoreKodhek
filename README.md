@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MoreKodhek&theme=radical)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoreKodhek&show_icons=true&theme=radical&rank_icon=github)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MoreKodhek&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoreKodhek&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
